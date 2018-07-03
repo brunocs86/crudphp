@@ -10,7 +10,7 @@ CRUD em PHP na estrutura MVC. Respeitando as boas práticas da programação nes
 - Para a tabela foi usado o "DataTables": https://datatables.net/
 
 # Antes de usar:
-- Criar o banco de dados conforme estrura no arquivo dbinit.sql na raiz do projeto.
+- Criar o banco de dados conforme estrutura no arquivo dbinit.sql na raiz do projeto.
 - Alterar o arquivo config.php e .htaccess conforme sua preferência.
 
 # Notas importantes:
