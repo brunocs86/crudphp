@@ -3,7 +3,7 @@
  * Projeto: CRUD na estrutura MVC
  * Ferramentas extras: Bootstrap para visual e Datatables para controle de dados na tela
  * Criador: Daniel Araujo
- * Email: contato@araujodaniel.com.br
+ * @danerscode
  */
   session_start();
   setlocale(LC_TIME, 'pt_BR\ ', 'pt_BR.utf-8\ ', 'pt_BR.utf-8\ ', 'portuguese\ ');

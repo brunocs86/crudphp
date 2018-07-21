@@ -48,7 +48,7 @@
                         header("Location: " . BASEURL);
                         exit;
                     } else {
-                        return "Conta bloqueada! Email contact@friendkr.com para abrir chamado";
+                        return "Conta bloqueada! Email email@email.com para abrir chamado";
                     }
                 } else {
                    if (!isset($_SESSION['crud_session_log'])) {
